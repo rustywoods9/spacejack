@@ -1,0 +1,6 @@
+# Visual Studio 2017 user specific files
+.vs/
+
+# x64 debug & release folder
+x64
+Spacejack/x64
